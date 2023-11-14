@@ -56,6 +56,9 @@ nav .social i {
     margin: 10px;
     font-size: 30px;
 }
+.social i:hover{
+    color: #28E98C;
+}
 
 .hero {
     display: flex;
