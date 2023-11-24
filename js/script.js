@@ -18,5 +18,5 @@ window.addEventListener('scroll', function () {
 // download button
 
 document.getElementById('downloadButton').addEventListener('click', function () {
-    window.location.href = 'Resume-RAJ-KIRAN (1).pdf';
+    window.location.href = 'resume.pdf';
 });
