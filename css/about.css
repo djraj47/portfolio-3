@@ -149,6 +149,7 @@
     width: 400px;
 }
 
+.headbtn,
 .projects div button {
     width: 100px;
     line-height: 40px;
@@ -156,6 +157,7 @@
     border: none;
     outline: none;
     border-radius: 7px;
+    cursor: pointer;
 }
 
 .projects div h5 {
